@@ -1,0 +1,18 @@
+# Whitelist: only Calendar/, knowledge/, and 527SH150/ are tracked.
+*
+!.gitignore
+!README.md
+!Calendar/
+!Calendar/**
+!knowledge/
+!knowledge/**
+!527SH150/
+!527SH150/**
+
+# Never commit these, even inside tracked folders:
+# Susan's ID, mortgage statements, and bills (third-party personal data)
+527SH150/images/
+# signed agreements and receipts
+527SH150/signed/
+.DS_Store
+__pycache__/

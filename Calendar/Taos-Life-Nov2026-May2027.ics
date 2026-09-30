@@ -1,0 +1,1426 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Suede//Taos Life Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Taos Life 2026-27
+X-WR-TIMEZONE:America/Denver
+BEGIN:VTIMEZONE
+TZID:America/Denver
+BEGIN:STANDARD
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0700
+TZNAME:MST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0600
+TZNAME:MDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:971b4b21-fa92-55d7-b663-6f5c2d870760@taos
+DTSTAMP:20260928T163415Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:[Admin] Buy TSV Weekday pass ($825) before Nov 1 price rise
+DESCRIPTION:Mon-Fri pass. Blackouts Dec 26-Jan 2\, Jan 16-17\, Feb 13-14\
+ , Mar 13-18. Also: email temple manager\, PHANM\, Taos Ceramics Center\;
+  fix Acudetox log name/dates with Avani.\nhttps://www.skitaos.com/season
+ -passes
+URL:https://www.skitaos.com/season-passes
+CATEGORIES:Admin
+END:VEVENT
+BEGIN:VEVENT
+UID:3a0719be-e36e-52bb-9cf2-3488cb73b1a6@taos
+DTSTAMP:20260928T163415Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:[Admin] Move in: 527 State Route 150\, Arroyo Seco
+LOCATION:527 State Route 150\, Arroyo Seco\, NM 87514
+DESCRIPTION:Walk to Logan Wannamaker Pottery (482a) and Rottenstone (486)
+ . Coffee at Sol Food. Rio Hondo with Granite. Mold check of the house.
+CATEGORIES:Admin
+END:VEVENT
+BEGIN:VEVENT
+UID:862d8fc9-ff17-5c91-a3f9-d1463696cbb0@taos
+DTSTAMP:20260928T163415Z
+DTSTART;TZID=America/Denver:20261107T090000
+DTEND;TZID=America/Denver:20261107T120000
+RRULE:FREQ=WEEKLY;BYDAY=SA;UNTIL=20261122T000000Z
+SUMMARY:[Culture] Taos Farmers Market (last November markets) (date TBC)
+LOCATION:105 Albright St\, Taos
+CATEGORIES:Culture
+END:VEVENT
+BEGIN:VEVENT
+UID:14133af9-42a5-55e2-82e4-f2a84dfd7044@taos
+DTSTAMP:20260928T163415Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261109
+SUMMARY:[Culture] Taos Chamber Music Group: Bach Musical Offering
+LOCATION:Harwood Museum\, 238 Ledoux St
+DESCRIPTION:https://taoschambermusicgroup.org/
+URL:https://taoschambermusicgroup.org/
+CATEGORIES:Culture
+END:VEVENT
+BEGIN:VEVENT
+UID:82a32530-a1d9-5146-92da-c35abf953d82@taos
+DTSTAMP:20260928T163415Z
+DTSTART;TZID=America/Denver:20261108T110000
+DTEND;TZID=America/Denver:20261108T133000
+SUMMARY:[Temple] Diwali. First temple Sunday: 11 Chalisas 11 AM\, lunch 1
+ 2:30
+LOCATION:Neem Karoli Baba Ashram\, 416 Geronimo Ln\, Taos
+DESCRIPTION:Introduce myself to staff. Ask about weekly seva slot and any
+  Diwali observance.\nhttps://nkbashram.org/ashram-daily-schedule
+URL:https://nkbashram.org/ashram-daily-schedule
+CATEGORIES:Temple
+END:VEVENT
+BEGIN:VEVENT
+UID:5df3afb6-35c4-536c-89bd-3727cd9a3a0c@taos
+DTSTAMP:20260928T163415Z
+DTSTART;TZID=America/Denver:20261110T160000
+DTEND;TZID=America/Denver:20261110T210000
+SUMMARY:[Temple] First temple Tuesday: chai 4\, kitchen seva\, dinner 5:3
+ 0\, aarti 6:45/7\, kirtan to 9
+LOCATION:Neem Karoli Baba Ashram\, 416 Geronimo Ln\, Taos
+CATEGORIES:Temple
+END:VEVENT
+BEGIN:VEVENT
+UID:2ce6a75b-c801-568a-acd1-5061f99c2c4c@taos
+DTSTAMP:20260928T163415Z
+DTSTART;TZID=America/Denver:20261112T090000
+DTEND;TZID=America/Denver:20261112T103000
+SUMMARY:[Admin] MVD appointment: NM license and registration
+LOCATION:MVD\, 1038 S Salazar Rd #B\, Taos
+DESCRIPTION:Appointment required. (575) 758-4226. Bring REAL ID docs. The
+ n voter registration at sos.nm.gov. Residents get free Sunday museum ent
+ ry with NM ID.
+CATEGORIES:Admin
+END:VEVENT
+BEGIN:VEVENT
+UID:8907b0a4-d4c4-5230-811a-dc90507ab72c@taos
+DTSTAMP:20260928T163415Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:[Admin] BeWellNM: 60-day special enrollment after move\; 2027 ope
+ n enrollment ends ~Jan 15
+DESCRIPTION:833-862-3935\nhttps://www.bewellnm.com
+URL:https://www.bewellnm.com
+CATEGORIES:Admin
+END:VEVENT
+BEGIN:VEVENT
+UID:24681280-9dac-57cc-b8d0-38f27442c6df@taos
+DTSTAMP:20260928T163415Z
+DTSTART;TZID=America/Denver:20261114T090000
+DTEND;TZID=America/Denver:20261114T110000
+SUMMARY:[Dating] LGBTQ+ 50+ Santa Fe Coffee Klatch
+LOCATION:Iconik Red\, 1366 Cerrillos Rd\, Santa Fe
+DESCRIPTION:Make it a Santa Fe day: FunG Farms\, Ten Thousand Waves\, con
+ tra dance 6:30 at Odd Fellows Hall (1st/3rd Sat).\nhttps://www.meetup.co
+ m/lgbtq-50/
+URL:https://www.meetup.com/lgbtq-50/
+CATEGORIES:Dating
+END:VEVENT
+BEGIN:VEVENT
+UID:d07a9dda-174c-5ae4-9f79-3b347a7c1b1f@taos
+DTSTAMP:20260928T163415Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:[Service] Taos Feeds Taos: check 2026 volunteer dates (date TBC)
+DESCRIPTION:https://taosfeedstaos.org
+URL:https://taosfeedstaos.org
+CATEGORIES:Service
+END:VEVENT
+BEGIN:VEVENT
+UID:cf1df806-1927-5d6f-9a95-c8e2d378f654@taos
+DTSTAMP:20260928T163415Z
+DTSTART;TZID=America/Denver:20261117T100000
+DTEND;TZID=America/Denver:20261117T110000
+SUMMARY:[Body] Primary care intake\; transfer BoulderCentre records\; ask
+  for DEXA (date TBC)
+LOCATION:El Centro Family Health\, 1331 Gusdorf Rd (575-758-3601) or Taos
+  Medical Group\, 1399 Weimer Rd
+DESCRIPTION:Book in week 1. Also vet for Granite this week.
+CATEGORIES:Body
+END:VEVENT
+BEGIN:VEVENT
+UID:85e95a8f-f62f-559a-bee2-2e1b0f23c6ca@taos
+DTSTAMP:20260928T163415Z
+DTSTART;TZID=America/Denver:20261118T183000
+DTEND;TZID=America/Denver:20261118T200000
+SUMMARY:[Service] Taos Search and Rescue general meeting (visitors welcom
+ e)
+LOCATION:UNM-Taos Bataan Hall\, Civic Plaza Dr
+DESCRIPTION:3rd Wednesday monthly. Dates: Nov 18\, Dec 16\, Jan 20\, Feb 
+ 17\, Mar 17\, Apr 21.\nhttps://sar-taos.org/Join-Us
+URL:https://sar-taos.org/Join-Us
+CATEGORIES:Service
+END:VEVENT
+BEGIN:VEVENT
+UID:67faf84b-95a5-5b25-a1a8-497258752632@taos
+DTSTAMP:20260928T163415Z
+DTSTART;TZID=America/Denver:20261216T183000
+DTEND;TZID=America/Denver:20261216T200000
+SUMMARY:[Service] Taos SAR meeting
+LOCATION:UNM-Taos Bataan Hall
+CATEGORIES:Service
+END:VEVENT
+BEGIN:VEVENT
+UID:eae0ec7c-a7ce-5b80-8f01-3cfacd8fc4ac@taos
+DTSTAMP:20260928T163415Z
+DTSTART;TZID=America/Denver:20270120T183000
+DTEND;TZID=America/Denver:20270120T200000
+SUMMARY:[Service] Taos SAR meeting
+LOCATION:UNM-Taos Bataan Hall
+CATEGORIES:Service
+END:VEVENT
+BEGIN:VEVENT
+UID:7cce903f-95d8-512d-a8ba-40c31d6c4a0e@taos
+DTSTAMP:20260928T163415Z
+DTSTART;TZID=America/Denver:20270217T183000
+DTEND;TZID=America/Denver:20270217T200000
+SUMMARY:[Service] Taos SAR meeting
+LOCATION:UNM-Taos Bataan Hall
+CATEGORIES:Service
+END:VEVENT
+BEGIN:VEVENT
+UID:323d9038-4cb6-5d70-bcac-95d7648256a6@taos
+DTSTAMP:20260928T163415Z
+DTSTART;TZID=America/Denver:20270317T183000
+DTEND;TZID=America/Denver:20270317T200000
+SUMMARY:[Service] Taos SAR meeting
+LOCATION:UNM-Taos Bataan Hall
+CATEGORIES:Service
+END:VEVENT
+BEGIN:VEVENT
+UID:627ac352-dfd9-542b-8e71-39295e73a1dd@taos
+DTSTAMP:20260928T163415Z
+DTSTART;TZID=America/Denver:20270421T183000
+DTEND;TZID=America/Denver:20270421T200000
+SUMMARY:[Service] Taos SAR meeting
+LOCATION:UNM-Taos Bataan Hall
+CATEGORIES:Service
+END:VEVENT
+BEGIN:VEVENT
+UID:f4f6f6bb-4564-58a1-a9e7-028c36c15509@taos
+DTSTAMP:20260928T163415Z
+DTSTART;TZID=America/Denver:20261119T170000
+DTEND;TZID=America/Denver:20261119T190000
+SUMMARY:[Dating] HRA Santa Fe 'After 5' mixer (3rd Thursday) (date TBC)
+LOCATION:Santa Fe\, rotating venue (RSVP)
+DESCRIPTION:https://hrasantafe.org/upcoming-hra-events/
+URL:https://hrasantafe.org/upcoming-hra-events/
+CATEGORIES:Dating
+END:VEVENT
+BEGIN:VEVENT
+UID:b750d093-860c-54a0-96e8-bf04fa935e3e@taos
+DTSTAMP:20260928T163415Z
+DTSTART;TZID=America/Denver:20261217T170000
+DTEND;TZID=America/Denver:20261217T190000
+SUMMARY:[Dating] HRA Santa Fe 'After 5' mixer (date TBC)
+LOCATION:Santa Fe\, rotating venue
+CATEGORIES:Dating
+END:VEVENT
+BEGIN:VEVENT
+UID:acc4b5dc-e339-5a23-a5ce-3c125987a040@taos
+DTSTAMP:20260928T163415Z
+DTSTART;TZID=America/Denver:20270121T170000
+DTEND;TZID=America/Denver:20270121T190000
+SUMMARY:[Dating] HRA Santa Fe 'After 5' mixer (date TBC)
+LOCATION:Santa Fe\, rotating venue
+CATEGORIES:Dating
+END:VEVENT
+BEGIN:VEVENT
+UID:7f799ee6-fcbb-5d14-81dc-c6e4da08a347@taos
+DTSTAMP:20260928T163415Z
+DTSTART;TZID=America/Denver:20270218T170000
+DTEND;TZID=America/Denver:20270218T190000
+SUMMARY:[Dating] HRA Santa Fe 'After 5' mixer (date TBC)
+LOCATION:Santa Fe\, rotating venue
+CATEGORIES:Dating
+END:VEVENT
+BEGIN:VEVENT
+UID:40f2f49e-5fc8-538d-9b01-0b0482adba11@taos
+DTSTAMP:20260928T163415Z
+DTSTART;TZID=America/Denver:20270318T170000
+DTEND;TZID=America/Denver:20270318T190000
+SUMMARY:[Dating] HRA Santa Fe 'After 5' mixer (date TBC)
+LOCATION:Santa Fe\, rotating venue
+CATEGORIES:Dating
+END:VEVENT
+BEGIN:VEVENT
+UID:3e78f8d4-d144-507d-a61a-c89e6b64be0e@taos
+DTSTAMP:20260928T163415Z
+DTSTART;TZID=America/Denver:20270415T170000
+DTEND;TZID=America/Denver:20270415T190000
+SUMMARY:[Dating] HRA Santa Fe 'After 5' mixer (date TBC)
+LOCATION:Santa Fe\, rotating venue
+CATEGORIES:Dating
+END:VEVENT
+BEGIN:VEVENT
+UID:33192f62-308b-5397-821e-0d230e8545d3@taos
+DTSTAMP:20260928T163415Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+RRULE:FREQ=MONTHLY;UNTIL=20270501T000000Z
+SUMMARY:[Dating] Check this month's Friends of Dorothy date (Santa Fe\, F
+ riday evening\, 45+ crowd)
+DESCRIPTION:Pair with MAKE Santa Fe fabrication and a Santa Fe overnight.
+ \nhttps://www.gaysantafe.com/friends-of-dorothy/
+URL:https://www.gaysantafe.com/friends-of-dorothy/
+CATEGORIES:Dating
+END:VEVENT
+BEGIN:VEVENT
+UID:dcf84ea0-9b52-5421-8d15-2f74651de953@taos
+DTSTAMP:20260928T163415Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261122
+SUMMARY:[Culture] Yjastros flamenco at TCA
+LOCATION:Taos Center for the Arts\, 133 Paseo del Pueblo Norte
+DESCRIPTION:https://tcataos.org/
+URL:https://tcataos.org/
+CATEGORIES:Culture
+END:VEVENT
+BEGIN:VEVENT
+UID:0fe17c2d-81ad-5c28-94db-c62d110d13e1@taos
+DTSTAMP:20260928T163415Z
+DTSTART;TZID=America/Denver:20261111T080000
+DTEND;TZID=America/Denver:20261111T120000
+SUMMARY:[Service] Shared Table food pantry (2nd/4th Wed)
+LOCATION:El Pueblito United Methodist\, 1309 Paseo del Pueblo Norte\, El 
+ Prado
+DESCRIPTION:https://app.vomo.org/project/sharedtable
+URL:https://app.vomo.org/project/sharedtable
+CATEGORIES:Service
+END:VEVENT
+BEGIN:VEVENT
+UID:38071533-66c3-59fe-83f4-673a22fa1d81@taos
+DTSTAMP:20260928T163415Z
+DTSTART;TZID=America/Denver:20261125T080000
+DTEND;TZID=America/Denver:20261125T120000
+SUMMARY:[Service] Shared Table food pantry
+LOCATION:El Pueblito UMC\, El Prado
+CATEGORIES:Service
+END:VEVENT
+BEGIN:VEVENT
+UID:2c2cb993-7e57-5fdb-b17f-72664c3dd5ee@taos
+DTSTAMP:20260928T163415Z
+DTSTART;TZID=America/Denver:20261209T080000
+DTEND;TZID=America/Denver:20261209T120000
+SUMMARY:[Service] Shared Table food pantry
+LOCATION:El Pueblito UMC\, El Prado
+CATEGORIES:Service
+END:VEVENT
+BEGIN:VEVENT
+UID:a9000495-b107-521b-8063-875c976f3b83@taos
+DTSTAMP:20260928T163415Z
+DTSTART;TZID=America/Denver:20261223T080000
+DTEND;TZID=America/Denver:20261223T120000
+SUMMARY:[Service] Shared Table food pantry
+LOCATION:El Pueblito UMC\, El Prado
+CATEGORIES:Service
+END:VEVENT
+BEGIN:VEVENT
+UID:8d9cfb76-990a-5b16-971a-30534422a8ae@taos
+DTSTAMP:20260928T163415Z
+DTSTART;TZID=America/Denver:20270113T080000
+DTEND;TZID=America/Denver:20270113T120000
+SUMMARY:[Service] Shared Table food pantry
+LOCATION:El Pueblito UMC\, El Prado
+CATEGORIES:Service
+END:VEVENT
+BEGIN:VEVENT
+UID:5b62f763-173a-561f-8b6c-9aa2fc6807f6@taos
+DTSTAMP:20260928T163415Z
+DTSTART;TZID=America/Denver:20270127T080000
+DTEND;TZID=America/Denver:20270127T120000
+SUMMARY:[Service] Shared Table food pantry
+LOCATION:El Pueblito UMC\, El Prado
+CATEGORIES:Service
+END:VEVENT
+BEGIN:VEVENT
+UID:eea674ad-6cd9-57b0-8544-f00b6e696819@taos
+DTSTAMP:20260928T163415Z
+DTSTART;TZID=America/Denver:20270210T080000
+DTEND;TZID=America/Denver:20270210T120000
+SUMMARY:[Service] Shared Table food pantry
+LOCATION:El Pueblito UMC\, El Prado
+CATEGORIES:Service
+END:VEVENT
+BEGIN:VEVENT
+UID:555ef9c8-e8b4-5bf5-b935-95cc02bd2b0e@taos
+DTSTAMP:20260928T163415Z
+DTSTART;TZID=America/Denver:20270224T080000
+DTEND;TZID=America/Denver:20270224T120000
+SUMMARY:[Service] Shared Table food pantry
+LOCATION:El Pueblito UMC\, El Prado
+CATEGORIES:Service
+END:VEVENT
+BEGIN:VEVENT
+UID:511bde01-23cd-533b-b091-d4f3ab9911d3@taos
+DTSTAMP:20260928T163415Z
+DTSTART;TZID=America/Denver:20270310T080000
+DTEND;TZID=America/Denver:20270310T120000
+SUMMARY:[Service] Shared Table food pantry
+LOCATION:El Pueblito UMC\, El Prado
+CATEGORIES:Service
+END:VEVENT
+BEGIN:VEVENT
+UID:2bc235ca-275f-55c2-bcd6-b62679e5e7ba@taos
+DTSTAMP:20260928T163415Z
+DTSTART;TZID=America/Denver:20270324T080000
+DTEND;TZID=America/Denver:20270324T120000
+SUMMARY:[Service] Shared Table food pantry
+LOCATION:El Pueblito UMC\, El Prado
+CATEGORIES:Service
+END:VEVENT
+BEGIN:VEVENT
+UID:a274b602-b192-57c0-b3de-fa03f75d1090@taos
+DTSTAMP:20260928T163415Z
+DTSTART;TZID=America/Denver:20270414T080000
+DTEND;TZID=America/Denver:20270414T120000
+SUMMARY:[Service] Shared Table food pantry
+LOCATION:El Pueblito UMC\, El Prado
+CATEGORIES:Service
+END:VEVENT
+BEGIN:VEVENT
+UID:8fdcad74-5501-5db6-9e20-f576792b6bff@taos
+DTSTAMP:20260928T163415Z
+DTSTART;TZID=America/Denver:20270428T080000
+DTEND;TZID=America/Denver:20270428T120000
+SUMMARY:[Service] Shared Table food pantry
+LOCATION:El Pueblito UMC\, El Prado
+CATEGORIES:Service
+END:VEVENT
+BEGIN:VEVENT
+UID:7ea37506-192b-505f-94fb-525750d98f09@taos
+DTSTAMP:20260928T163415Z
+DTSTART;TZID=America/Denver:20261123T110000
+DTEND;TZID=America/Denver:20261123T160000
+SUMMARY:[Body] Ojo Caliente weekday soak ($45)
+LOCATION:Ojo Caliente Mineral Springs
+DESCRIPTION:Stop at Ojo Gallery (11 NM-414) to see Logan's second space.\
+ nhttps://ojosparesorts.com/ojo-caliente/soak/
+URL:https://ojosparesorts.com/ojo-caliente/soak/
+CATEGORIES:Body
+END:VEVENT
+BEGIN:VEVENT
+UID:7e99386f-c932-5d38-a048-cc6bed9e8f58@taos
+DTSTAMP:20260928T163415Z
+DTSTART;TZID=America/Denver:20261214T110000
+DTEND;TZID=America/Denver:20261214T160000
+SUMMARY:[Body] Ojo Caliente weekday soak
+LOCATION:Ojo Caliente
+CATEGORIES:Body
+END:VEVENT
+BEGIN:VEVENT
+UID:95baba5f-c997-538f-8118-321bb3eda54e@taos
+DTSTAMP:20260928T163415Z
+DTSTART;TZID=America/Denver:20270125T110000
+DTEND;TZID=America/Denver:20270125T160000
+SUMMARY:[Body] Ojo Caliente weekday soak
+LOCATION:Ojo Caliente
+CATEGORIES:Body
+END:VEVENT
+BEGIN:VEVENT
+UID:bc8acd91-0f9f-5b03-988e-1d21e3f65b67@taos
+DTSTAMP:20260928T163415Z
+DTSTART;TZID=America/Denver:20270222T110000
+DTEND;TZID=America/Denver:20270222T160000
+SUMMARY:[Body] Ojo Caliente weekday soak
+LOCATION:Ojo Caliente
+CATEGORIES:Body
+END:VEVENT
+BEGIN:VEVENT
+UID:16f1f1ec-7da3-59b6-90ad-d4311d23e18b@taos
+DTSTAMP:20260928T163415Z
+DTSTART;TZID=America/Denver:20270329T110000
+DTEND;TZID=America/Denver:20270329T160000
+SUMMARY:[Body] Ojo Caliente weekday soak
+LOCATION:Ojo Caliente
+CATEGORIES:Body
+END:VEVENT
+BEGIN:VEVENT
+UID:95f49668-399e-54ed-977c-56f4cb02ad63@taos
+DTSTAMP:20260928T163415Z
+DTSTART;TZID=America/Denver:20270426T110000
+DTEND;TZID=America/Denver:20270426T160000
+SUMMARY:[Body] Ojo Caliente weekday soak
+LOCATION:Ojo Caliente
+CATEGORIES:Body
+END:VEVENT
+BEGIN:VEVENT
+UID:d080dff1-0e96-520c-8a1d-406ccdb8d666@taos
+DTSTAMP:20260928T163415Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:[Snow] Taos Ski Valley OPENING DAY (Thanksgiving)
+LOCATION:Taos Ski Valley
+DESCRIPTION:https://www.skitaos.com/
+URL:https://www.skitaos.com/
+CATEGORIES:Snow
+END:VEVENT
+BEGIN:VEVENT
+UID:45052355-5dcc-5ff2-8eba-f398074f36c9@taos
+DTSTAMP:20260928T163415Z
+DTSTART;TZID=America/Denver:20261127T100000
+DTEND;TZID=America/Denver:20261127T140000
+SUMMARY:[Snow] First ride of the season (groomers\, half day\, full armor
+ )
+LOCATION:Taos Ski Valley\, Lift 4 side
+CATEGORIES:Snow
+END:VEVENT
+BEGIN:VEVENT
+UID:bbc53645-677c-54d3-8fe7-c856ba57d8ee@taos
+DTSTAMP:20260928T163415Z
+DTSTART;TZID=America/Denver:20261201T093000
+DTEND;TZID=America/Denver:20261201T140000
+RRULE:FREQ=WEEKLY;BYDAY=TU,TH;UNTIL=20270402T000000Z
+EXDATE;TZID=America/Denver:20261229T093000
+EXDATE;TZID=America/Denver:20261231T093000
+EXDATE;TZID=America/Denver:20270316T093000
+EXDATE;TZID=America/Denver:20270318T093000
+EXDATE;TZID=America/Denver:20270204T093000
+SUMMARY:[Snow] Ride day (Weekday pass)
+LOCATION:Taos Ski Valley
+DESCRIPTION:Tue/Thu. Blackouts removed (Dec 29\, 31\; Mar 16\, 18). Feb 4
+  removed for the Hermitage retreat. Add Mon/Fri powder days ad hoc. Back
+  protector\, impact shorts\, wrist guards\, helmet.
+CATEGORIES:Snow
+END:VEVENT
+BEGIN:VEVENT
+UID:e339a4ae-f3a8-5f86-a8ce-f85ffc607287@taos
+DTSTAMP:20260928T163415Z
+DTSTART;TZID=America/Denver:20261109T090000
+DTEND;TZID=America/Denver:20261109T103000
+RRULE:FREQ=WEEKLY;BYDAY=MO,FR;UNTIL=20270501T000000Z
+SUMMARY:[Body] Qi gong + tai chi with Richard Leirer (donation $10-20)
+LOCATION:Taos Senior Center\, 200 Albright St (back entrance)
+DESCRIPTION:https://richardleirer.org/qigong-academy/
+URL:https://richardleirer.org/qigong-academy/
+CATEGORIES:Body
+END:VEVENT
+BEGIN:VEVENT
+UID:272e649a-6e79-52b4-a265-a55fbfa5f92b@taos
+DTSTAMP:20260928T163415Z
+DTSTART;TZID=America/Denver:20261115T100000
+DTEND;TZID=America/Denver:20261115T110000
+RRULE:FREQ=WEEKLY;BYDAY=SU;UNTIL=20270501T000000Z
+SUMMARY:[Body] Sunday qi gong with Richard Leirer (or Ecstatic Dance\, al
+ ternate weeks)
+LOCATION:1027 Salazar Rd\, Taos
+CATEGORIES:Body
+END:VEVENT
+BEGIN:VEVENT
+UID:2d5d8924-5c3d-5286-8422-4674cbd6637c@taos
+DTSTAMP:20260928T163415Z
+DTSTART;TZID=America/Denver:20261108T090000
+DTEND;TZID=America/Denver:20261108T100000
+RRULE:FREQ=WEEKLY;BYDAY=SU;UNTIL=20270501T000000Z
+SUMMARY:[Recovery] Recovery Dharma Taos
+LOCATION:Taos Whole Community Health\, 630 Paseo del Pueblo Sur #140
+DESCRIPTION:https://recoverydharma.org/meetings/rd-taos/
+URL:https://recoverydharma.org/meetings/rd-taos/
+CATEGORIES:Recovery
+END:VEVENT
+BEGIN:VEVENT
+UID:e2b87df9-706e-55a3-bd5e-afaba84f0d5e@taos
+DTSTAMP:20260928T163415Z
+DTSTART;TZID=America/Denver:20261115T110000
+DTEND;TZID=America/Denver:20261115T133000
+RRULE:FREQ=WEEKLY;BYDAY=SU;UNTIL=20270501T000000Z
+SUMMARY:[Temple] Temple Sunday: 11 Hanuman Chalisas\, then prasad lunch 1
+ 2:30
+LOCATION:Neem Karoli Baba Ashram\, 416 Geronimo Ln
+CATEGORIES:Temple
+END:VEVENT
+BEGIN:VEVENT
+UID:080f2e43-c989-589c-8a59-df109d824382@taos
+DTSTAMP:20260928T163415Z
+DTSTART;TZID=America/Denver:20261117T160000
+DTEND;TZID=America/Denver:20261117T210000
+RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20270501T000000Z
+SUMMARY:[Temple] Temple Tuesday: chai\, kitchen seva\, dinner prasad 5:30
+ \, aarti\, kirtan to 9
+LOCATION:Neem Karoli Baba Ashram\, 416 Geronimo Ln
+CATEGORIES:Temple
+END:VEVENT
+BEGIN:VEVENT
+UID:4a8dbcb3-8534-5958-92c0-fc447c149179@taos
+DTSTAMP:20260928T163415Z
+DTSTART;TZID=America/Denver:20261109T070000
+DTEND;TZID=America/Denver:20261109T080000
+RRULE:FREQ=WEEKLY;BYDAY=MO,TU,WE,TH,FR,SA;UNTIL=20270501T000000Z
+SUMMARY:[Recovery] AA: Turn It Over Early (verify time) (date TBC)
+LOCATION:First Presbyterian Church\, Taos
+DESCRIPTION:https://nm-aa.org/meetings/
+URL:https://nm-aa.org/meetings/
+CATEGORIES:Recovery
+END:VEVENT
+BEGIN:VEVENT
+UID:abb931b3-d384-5652-85a9-d064c874086b@taos
+DTSTAMP:20260928T163415Z
+DTSTART;TZID=America/Denver:20261111T180000
+DTEND;TZID=America/Denver:20261111T190000
+RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20270501T000000Z
+SUMMARY:[Recovery] AA: Red Willow Sobriety Circle (closest to Seco\; veri
+ fy time) (date TBC)
+LOCATION:El Pueblito Church\, El Prado
+CATEGORIES:Recovery
+END:VEVENT
+BEGIN:VEVENT
+UID:1ff094be-581f-5a6c-8f41-36c7f2491d05@taos
+DTSTAMP:20260928T163415Z
+DTSTART;TZID=America/Denver:20261112T180000
+DTEND;TZID=America/Denver:20261112T190000
+RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20270501T000000Z
+SUMMARY:[Recovery] AA: Thursday Night Men's Meeting (verify time) (date T
+ BC)
+LOCATION:St. James Episcopal\, 208 Camino de Santiago\, Taos
+CATEGORIES:Recovery
+END:VEVENT
+BEGIN:VEVENT
+UID:d440c748-b600-5886-bfbd-786f9f5083cd@taos
+DTSTAMP:20260928T163415Z
+DTSTART;TZID=America/Denver:20261112T170000
+DTEND;TZID=America/Denver:20261112T184500
+RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20270501T000000Z
+SUMMARY:[Body] Hokoji Zen: zazen 5:00\, kinhin\, zazen\, dharma talk 6:10
+  (walkable)
+LOCATION:Hokoji\, 10 Paw-a-Suki Rd\, Arroyo Seco
+DESCRIPTION:Conflicts with Thursday men's AA. AA first while building a h
+ ome group\; zazen on alternate Thursdays or the Tuesday morning sit.\nht
+ tps://www.hokojitaos.org/
+URL:https://www.hokojitaos.org/
+CATEGORIES:Body
+END:VEVENT
+BEGIN:VEVENT
+UID:50bebc7a-5f9e-5741-af30-cfe615f3dbb2@taos
+DTSTAMP:20260928T163415Z
+DTSTART;TZID=America/Denver:20261111T090000
+DTEND;TZID=America/Denver:20261111T100000
+RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20270501T000000Z
+SUMMARY:[Body] Feldenkrais Awareness Through Movement ($15)
+LOCATION:Move Into Balance\, 1335 Gusdorf Rd Ste J
+DESCRIPTION:http://moveintobalance.com/
+URL:http://moveintobalance.com/
+CATEGORIES:Body
+END:VEVENT
+BEGIN:VEVENT
+UID:1317b35a-2e8d-5c16-b69a-c4b4ca66958e@taos
+DTSTAMP:20260928T163415Z
+DTSTART;TZID=America/Denver:20261116T110000
+DTEND;TZID=America/Denver:20261116T170000
+RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20270501T000000Z
+SUMMARY:[Body] Community acupuncture walk-in window (sliding scale)
+LOCATION:Mountain Heart Wellness Collective\, 4155 NM-68\, Ranchos de Tao
+ s
+DESCRIPTION:Go every other week for knee/hip/back. Meet the DOMs for Acud
+ etox supervision.\nhttps://mountainhearttaos.com/community-acupuncture
+URL:https://mountainhearttaos.com/community-acupuncture
+CATEGORIES:Body
+END:VEVENT
+BEGIN:VEVENT
+UID:07efc4f8-94b3-5edd-b546-ffba04158217@taos
+DTSTAMP:20260928T163415Z
+DTSTART;TZID=America/Denver:20261109T153000
+DTEND;TZID=America/Denver:20261109T163000
+RRULE:FREQ=WEEKLY;BYDAY=MO,WE;UNTIL=20270501T000000Z
+SUMMARY:[Body] Swim at High Altitude Health & Fitness
+LOCATION:1307 Paseo del Pueblo Norte\, El Prado
+CATEGORIES:Body
+END:VEVENT
+BEGIN:VEVENT
+UID:7d6e0d97-76cd-5bef-94e5-307249a9d205@taos
+DTSTAMP:20260928T163415Z
+DTSTART;TZID=America/Denver:20261109T130000
+DTEND;TZID=America/Denver:20261109T153000
+RRULE:FREQ=WEEKLY;BYDAY=MO,WE,FR;UNTIL=20270501T000000Z
+SUMMARY:[Studio] Studio block: mobiles\, mushrooms\, design work
+LOCATION:Home
+CATEGORIES:Studio
+END:VEVENT
+BEGIN:VEVENT
+UID:7a03a122-db74-5661-9bb7-f0ea8c85995f@taos
+DTSTAMP:20260928T163415Z
+DTSTART;TZID=America/Denver:20261113T130000
+DTEND;TZID=America/Denver:20261113T160000
+RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20270501T000000Z
+SUMMARY:[Studio] Pottery afternoon (Logan's studio / Taos Ceramics Center
+  open studio) (date TBC)
+LOCATION:482a NM-150\, Arroyo Seco
+CATEGORIES:Studio
+END:VEVENT
+BEGIN:VEVENT
+UID:28e51c7b-a0a8-53e7-89b3-2ec41fc353d9@taos
+DTSTAMP:20260928T163415Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:[Mushrooms] Set up mushroom grow tent\; order spawn from NM Fungi
+  (505-387-9840)
+DESCRIPTION:Blue oyster + lion's mane first. Join NMMS ($20). Sign up for
+  DOH Medical Psilocybin E-News.\nhttps://www.nmfungi.com/
+URL:https://www.nmfungi.com/
+CATEGORIES:Mushrooms
+END:VEVENT
+BEGIN:VEVENT
+UID:9d725061-b39b-526a-9507-2ba6283fe890@taos
+DTSTAMP:20260928T163415Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:[Studio] Email Taos Ceramics Center for spring schedule and FlexP
+ ass pricing
+DESCRIPTION:https://www.taosceramics.com/classes
+URL:https://www.taosceramics.com/classes
+CATEGORIES:Studio
+END:VEVENT
+BEGIN:VEVENT
+UID:11514f82-6e94-5150-a886-8ede03920f3b@taos
+DTSTAMP:20260928T163415Z
+DTSTART;TZID=America/Denver:20261121T100000
+DTEND;TZID=America/Denver:20261121T140000
+RRULE:FREQ=WEEKLY;BYDAY=SA;UNTIL=20270405T000000Z
+SUMMARY:[Culture] Taos Winter Market Gathering (Saturdays\; 2026-27 dates
+  TBC) (date TBC)
+LOCATION:Taos Cow @ Anglada's\, 736 Kit Carson Rd
+CATEGORIES:Culture
+END:VEVENT
+BEGIN:VEVENT
+UID:1c189121-23b7-5f8c-b5bb-690b5dd07e13@taos
+DTSTAMP:20260928T163415Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:[Culture] Thanksgiving (no temple event on record\; TSV opens)
+CATEGORIES:Culture
+END:VEVENT
+BEGIN:VEVENT
+UID:ceed6260-aec4-5350-bddd-4dc3b53e31f1@taos
+DTSTAMP:20260928T163415Z
+DTSTART;TZID=America/Denver:20261206T170000
+DTEND;TZID=America/Denver:20261206T173000
+SUMMARY:[Admin] Monthly house check-in with Suzie (20 min)
+LOCATION:Home
+DESCRIPTION:How's the house going? Anything to adjust? The anti-abandonme
+ nt device.
+CATEGORIES:Admin
+END:VEVENT
+BEGIN:VEVENT
+UID:8e55a73c-b0f6-5eed-88be-87afdc2447b3@taos
+DTSTAMP:20260928T163415Z
+DTSTART;TZID=America/Denver:20270103T170000
+DTEND;TZID=America/Denver:20270103T173000
+SUMMARY:[Admin] House check-in with Suzie
+LOCATION:Home
+CATEGORIES:Admin
+END:VEVENT
+BEGIN:VEVENT
+UID:e8e77e71-7f54-5c42-be20-8342dbc77777@taos
+DTSTAMP:20260928T163415Z
+DTSTART;TZID=America/Denver:20270207T170000
+DTEND;TZID=America/Denver:20270207T173000
+SUMMARY:[Admin] House check-in with Suzie
+LOCATION:Home
+CATEGORIES:Admin
+END:VEVENT
+BEGIN:VEVENT
+UID:63b1f2cb-5c71-51de-839e-ddd35eeb4d45@taos
+DTSTAMP:20260928T163415Z
+DTSTART;TZID=America/Denver:20270307T170000
+DTEND;TZID=America/Denver:20270307T173000
+SUMMARY:[Admin] House check-in with Suzie
+LOCATION:Home
+CATEGORIES:Admin
+END:VEVENT
+BEGIN:VEVENT
+UID:b452b854-8f4a-5d20-8320-9c499a213e26@taos
+DTSTAMP:20260928T163415Z
+DTSTART;TZID=America/Denver:20270404T170000
+DTEND;TZID=America/Denver:20270404T173000
+SUMMARY:[Admin] House check-in with Suzie
+LOCATION:Home
+CATEGORIES:Admin
+END:VEVENT
+BEGIN:VEVENT
+UID:11a7d616-5e34-5645-9467-44c1f35836f3@taos
+DTSTAMP:20260928T163415Z
+DTSTART;TZID=America/Denver:20261204T160000
+DTEND;TZID=America/Denver:20261204T200000
+SUMMARY:[Culture] Lighting of Ledoux
+LOCATION:Ledoux St\, Taos
+DESCRIPTION:Town calendar says Dec 4\; taos.org still shows 2025's date.
+CATEGORIES:Culture
+END:VEVENT
+BEGIN:VEVENT
+UID:68627914-b7dc-50d1-b0f7-2ee53bd23f9e@taos
+DTSTAMP:20260928T163415Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:[Culture] Millicent Rogers Museum Holiday Fiesta (free) (date TBC
+ )
+LOCATION:1504 Millicent Rogers Rd\, El Prado
+CATEGORIES:Culture
+END:VEVENT
+BEGIN:VEVENT
+UID:c67306c3-52a1-5b1e-8f37-d6de48a4d678@taos
+DTSTAMP:20260928T163415Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:[Outdoors] Taos Avalanche Center: book a class / read forecasts (
+ season starts)
+DESCRIPTION:https://www.taosavalanchecenter.org
+URL:https://www.taosavalanchecenter.org
+CATEGORIES:Outdoors
+END:VEVENT
+BEGIN:VEVENT
+UID:725bebdd-871f-5b8d-9c19-9d7d70f61697@taos
+DTSTAMP:20260928T163415Z
+DTSTART;TZID=America/Denver:20261211T190000
+DTEND;TZID=America/Denver:20261211T210000
+SUMMARY:[Culture] Taos Chamber Music Group: Gleb Ivanov piano recital (da
+ te TBC)
+LOCATION:Harwood Museum
+CATEGORIES:Culture
+END:VEVENT
+BEGIN:VEVENT
+UID:583d3a86-4022-518f-8cac-b4848f8a6713@taos
+DTSTAMP:20260928T163415Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261214
+SUMMARY:[Culture] Taos Chamber Music Group: All-Franck
+LOCATION:Harwood Museum
+CATEGORIES:Culture
+END:VEVENT
+BEGIN:VEVENT
+UID:64b4ee69-d67d-5f74-9fe0-8b12754480b4@taos
+DTSTAMP:20260928T163415Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261221
+SUMMARY:[Service] Taos Feeds Taos volunteer week (2024 pattern\; verify) 
+ (date TBC)
+LOCATION:National Guard Armory\, 1145 State Rd 570
+CATEGORIES:Service
+END:VEVENT
+BEGIN:VEVENT
+UID:b1043f4d-670b-5ad9-8c90-e3e88b3f4346@taos
+DTSTAMP:20260928T163415Z
+DTSTART;TZID=America/Denver:20261218T180000
+DTEND;TZID=America/Denver:20261218T193000
+SUMMARY:[Studio] MAKE Santa Fe Friday tour\, then sign up for MIG + plasm
+ a badges
+LOCATION:MAKE Santa Fe\, 2879 All Trades Rd\, Santa Fe
+DESCRIPTION:Pair with Friends of Dorothy if it's this Friday. Stock up on
+  rod\, wire\, sheet in Santa Fe.\nhttps://makesantafe.org/become-a-maker
+ /
+URL:https://makesantafe.org/become-a-maker/
+CATEGORIES:Studio
+END:VEVENT
+BEGIN:VEVENT
+UID:f24e55c2-8fcf-565a-a667-a42e510656d1@taos
+DTSTAMP:20260928T163415Z
+DTSTART;TZID=America/Denver:20261221T153000
+DTEND;TZID=America/Denver:20261221T180000
+SUMMARY:[Dating] Gay Out West NM: Winter Solstice sunset hike (Albuquerqu
+ e) (date TBC)
+LOCATION:Albuquerque area
+DESCRIPTION:https://www.meetup.com/gay-out-west-nm/
+URL:https://www.meetup.com/gay-out-west-nm/
+CATEGORIES:Dating
+END:VEVENT
+BEGIN:VEVENT
+UID:aabcf6d3-bd6a-5193-9fd5-bd18c66806ff@taos
+DTSTAMP:20260928T163415Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+SUMMARY:[Temple] Ram Dass Mahasamadhi anniversary (2019)
+DESCRIPTION:Ram Dass's ashes are at the Taos ashram. Sit with the Be Here
+  Now book.
+CATEGORIES:Temple
+END:VEVENT
+BEGIN:VEVENT
+UID:79272103-21e4-5801-841d-3e2993c8c05b@taos
+DTSTAMP:20260928T163415Z
+DTSTART;TZID=America/Denver:20261224T170000
+DTEND;TZID=America/Denver:20261224T190000
+SUMMARY:[Culture] Taos Pueblo: Procession of the Virgin with bonfires (Ma
+ ss ~5 PM)\; no photos
+LOCATION:Taos Pueblo
+CATEGORIES:Culture
+END:VEVENT
+BEGIN:VEVENT
+UID:bf755a32-d11d-5be2-9b61-392583ddf812@taos
+DTSTAMP:20260928T163415Z
+DTSTART;TZID=America/Denver:20261224T130000
+DTEND;TZID=America/Denver:20261224T213000
+SUMMARY:[Temple] Temple Christmas Eve dinner 6 PM\, aarti\, kirtan (2019 
+ pattern\; volunteer cooking from 1 PM) (date TBC)
+LOCATION:Neem Karoli Baba Ashram
+CATEGORIES:Temple
+END:VEVENT
+BEGIN:VEVENT
+UID:4a9f98a3-d929-5cbb-9ba7-583996b2319d@taos
+DTSTAMP:20260928T163415Z
+DTSTART;TZID=America/Denver:20261225T110000
+DTEND;TZID=America/Denver:20261225T140000
+SUMMARY:[Culture] Taos Pueblo: Deer Dance or Matachines (date TBC)
+LOCATION:Taos Pueblo
+CATEGORIES:Culture
+END:VEVENT
+BEGIN:VEVENT
+UID:774d671c-a1c2-5a4e-93f4-4e8856237746@taos
+DTSTAMP:20260928T163415Z
+DTSTART;TZID=America/Denver:20261225T090000
+DTEND;TZID=America/Denver:20261225T170000
+SUMMARY:[Temple] Temple Christmas prasad dinner 3 PM\, prep from 9 AM (20
+ 19 pattern) (date TBC)
+LOCATION:Neem Karoli Baba Ashram
+CATEGORIES:Temple
+END:VEVENT
+BEGIN:VEVENT
+UID:a2495a64-073a-5f47-ba28-d49f7b855814@taos
+DTSTAMP:20260928T163415Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:[Snow] TSV Full Moon Uphill Tour (patrol-guided\, 10 max\; book a
+ head). Blackout week begins. (date TBC)
+LOCATION:Taos Ski Valley
+CATEGORIES:Snow
+END:VEVENT
+BEGIN:VEVENT
+UID:198be57f-1d91-5739-9ba7-c12fed3d169a@taos
+DTSTAMP:20260928T163415Z
+DTSTART;TZID=America/Denver:20261228T110000
+DTEND;TZID=America/Denver:20261228T133000
+SUMMARY:[Temple] Sri Siddhi Ma memorial: chanting from 11\, prasad lunch 
+ (2019 pattern) (date TBC)
+LOCATION:Neem Karoli Baba Ashram
+CATEGORIES:Temple
+END:VEVENT
+BEGIN:VEVENT
+UID:b50595cb-2863-54e0-a3f5-4cd1217eb886@taos
+DTSTAMP:20260928T163415Z
+DTSTART;TZID=America/Denver:20261231T120000
+DTEND;TZID=America/Denver:20261231T235900
+SUMMARY:[Temple] New Year's Eve: 108 Hanuman Chalisas noon to midnight\, 
+ dinner 6\, midnight aarti (verify) (date TBC)
+LOCATION:Neem Karoli Baba Ashram
+DESCRIPTION:Alternative: TSV Winter Market\, torchlight parade and firewo
+ rks.
+CATEGORIES:Temple
+END:VEVENT
+BEGIN:VEVENT
+UID:a1e3db3d-0904-577f-8e6a-6e3b8247a382@taos
+DTSTAMP:20260928T163415Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:[Culture] Taos Pueblo: Turtle Dance\, transfer of canes
+LOCATION:Taos Pueblo
+CATEGORIES:Culture
+END:VEVENT
+BEGIN:VEVENT
+UID:7fdb5965-9450-5d14-a04a-26bb419e710b@taos
+DTSTAMP:20260928T163415Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:[Admin] Paulina's birthday
+CATEGORIES:Admin
+END:VEVENT
+BEGIN:VEVENT
+UID:d683764b-3c0e-53e1-b5d7-8c3b13641d5c@taos
+DTSTAMP:20260928T163415Z
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270106
+SUMMARY:[Culture] SOMOS Winter Writers Series starts (8 weeks Jan-Feb\; c
+ heck dates) (date TBC)
+LOCATION:SOMOS\, 108 Civic Plaza Dr
+DESCRIPTION:https://somostaos.org/calendar/
+URL:https://somostaos.org/calendar/
+CATEGORIES:Culture
+END:VEVENT
+BEGIN:VEVENT
+UID:ad6a0285-9d59-576c-862a-62cdeb211573@taos
+DTSTAMP:20260928T163415Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:[Culture] Taos Pueblo: Deer and Buffalo dances (Three Kings Day)
+LOCATION:Taos Pueblo
+CATEGORIES:Culture
+END:VEVENT
+BEGIN:VEVENT
+UID:6957345d-dd74-53ad-a006-a76d45bfc87d@taos
+DTSTAMP:20260928T163415Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:[Snow] Brewski at TSV (beer festival\; skip\, base area crowded)
+LOCATION:Taos Ski Valley
+CATEGORIES:Snow
+END:VEVENT
+BEGIN:VEVENT
+UID:5180c578-a957-5921-a2c4-e0218bb46fff@taos
+DTSTAMP:20260928T163415Z
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270112
+SUMMARY:[Admin] Finish POCA AAT submission (quiz\, ethics pledge\, log). 
+ Hard deadline Jul 24\, 2027.
+DESCRIPTION:Then: PHANM status\, NM CADS path\, Taos DOM supervisor.
+CATEGORIES:Admin
+END:VEVENT
+BEGIN:VEVENT
+UID:9d6a7587-5c6d-5db0-8b6b-2f2fc4a67f40@taos
+DTSTAMP:20260928T163415Z
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+SUMMARY:[Temple] K.K. Sah anniversary (remembered at the ashram)
+CATEGORIES:Temple
+END:VEVENT
+BEGIN:VEVENT
+UID:7fccab0f-3e0e-5076-9e91-dc29ec492078@taos
+DTSTAMP:20260928T163415Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:[Admin] BeWellNM open enrollment ends (verify) (date TBC)
+CATEGORIES:Admin
+END:VEVENT
+BEGIN:VEVENT
+UID:31472c12-a931-5920-8a7b-08db04c5d624@taos
+DTSTAMP:20260928T163415Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270118
+SUMMARY:[Snow] Weekday pass blackout: Jan 16-17
+CATEGORIES:Snow
+END:VEVENT
+BEGIN:VEVENT
+UID:a5b5c45a-bb28-56d7-9f80-3349faef14d9@taos
+DTSTAMP:20260928T163415Z
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270120
+SUMMARY:[Service] NM Legislature 60-day session opens (Amigos Bravos advo
+ cacy days follow) (date TBC)
+LOCATION:Roundhouse\, Santa Fe
+DESCRIPTION:https://www.amigosbravos.org/volunteer/
+URL:https://www.amigosbravos.org/volunteer/
+CATEGORIES:Service
+END:VEVENT
+BEGIN:VEVENT
+UID:6584e8ec-f909-5298-9e70-7720668c212d@taos
+DTSTAMP:20260928T163415Z
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270120
+SUMMARY:[Studio] UNM-Taos spring semester begins (Ceramics I Thu\, Small 
+ Metals Fri\; verify) (date TBC)
+LOCATION:UNM-Taos Klauer Campus\, Ranchos de Taos
+DESCRIPTION:https://taos.unm.edu/academics/classes/class-schedule.html
+URL:https://taos.unm.edu/academics/classes/class-schedule.html
+CATEGORIES:Studio
+END:VEVENT
+BEGIN:VEVENT
+UID:be5d9de6-88e6-530f-a3bc-e7849d77395b@taos
+DTSTAMP:20260928T163415Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:[Snow] TSV Full Moon Uphill Tour (date TBC)
+LOCATION:Taos Ski Valley
+CATEGORIES:Snow
+END:VEVENT
+BEGIN:VEVENT
+UID:6dd5154b-60e5-543c-bddb-077b1721469d@taos
+DTSTAMP:20260928T163415Z
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270211
+SUMMARY:[Body] Mountain Hermitage: Finding Freedom Through Insight Medita
+ tion (Brian Lesage)\, 7-day retreat
+LOCATION:San Geronimo Lodge\, 1101 Witt Rd\, Taos
+DESCRIPTION:Apply by December. 2026 price $1\,320-1\,900 sliding. Granite
+  needs a plan for the week.\nhttps://mountainhermitage.org/retreat-event
+ -schedule/
+URL:https://mountainhermitage.org/retreat-event-schedule/
+CATEGORIES:Body
+END:VEVENT
+BEGIN:VEVENT
+UID:008cfcd4-6a0e-5bb2-ac9f-e33b071dd7f6@taos
+DTSTAMP:20260928T163415Z
+DTSTART;VALUE=DATE:20270204
+DTEND;VALUE=DATE:20270207
+SUMMARY:[Culture] Taos Winter Wine Festival (21+\, wine\; skip)
+LOCATION:Taos Ski Valley
+CATEGORIES:Culture
+END:VEVENT
+BEGIN:VEVENT
+UID:be71b0ec-c6c9-5ab8-a32d-093f403561e9@taos
+DTSTAMP:20260928T163415Z
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+SUMMARY:[Snow] TSV Lift Line Valentine
+LOCATION:Taos Ski Valley
+CATEGORIES:Snow
+END:VEVENT
+BEGIN:VEVENT
+UID:8caebff3-6e16-5a82-a522-ec5859a38b97@taos
+DTSTAMP:20260928T163415Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270215
+SUMMARY:[Snow] Weekday pass blackout: Feb 13-14
+CATEGORIES:Snow
+END:VEVENT
+BEGIN:VEVENT
+UID:698ba3f4-75d2-504a-a277-6ceb82e43c80@taos
+DTSTAMP:20260928T163415Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270215
+SUMMARY:[Culture] Taos Chamber Music Group: Romantic Valentine
+LOCATION:Harwood Museum
+CATEGORIES:Culture
+END:VEVENT
+BEGIN:VEVENT
+UID:b653ae08-b6ee-53f9-88ef-ff4c282eb6f0@taos
+DTSTAMP:20260928T163415Z
+DTSTART;VALUE=DATE:20270219
+DTEND;VALUE=DATE:20270220
+SUMMARY:[Admin] Griffin's birthday. Invite him to ride Taos (early-season
+  $75 tickets are over\; passholder guest discounts?)
+CATEGORIES:Admin
+END:VEVENT
+BEGIN:VEVENT
+UID:74138dbe-c0ea-590a-bca3-f4eee2fe3455@taos
+DTSTAMP:20260928T163415Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:[Snow] TSV Full Moon Uphill Tour (date TBC)
+LOCATION:Taos Ski Valley
+CATEGORIES:Snow
+END:VEVENT
+BEGIN:VEVENT
+UID:e37c7acc-0645-552c-95e4-e30659d13ed8@taos
+DTSTAMP:20260928T163415Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:[Snow] Taos Freeride (IFSA) per Taos Winter Sports Team\; taos.or
+ g says TBA (date TBC)
+LOCATION:Taos Ski Valley
+CATEGORIES:Snow
+END:VEVENT
+BEGIN:VEVENT
+UID:d742c6d7-767f-50d6-a36c-bb91f3bc2267@taos
+DTSTAMP:20260928T163415Z
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270324
+SUMMARY:[Culture] Harwood Museum closed for reinstall (through Mar 23)
+CATEGORIES:Culture
+END:VEVENT
+BEGIN:VEVENT
+UID:0f3a91de-67e1-5eda-89e3-2c4c33155bbb@taos
+DTSTAMP:20260928T163415Z
+DTSTART;TZID=America/Denver:20270306T170000
+DTEND;TZID=America/Denver:20270307T070000
+SUMMARY:[Temple] Maha Shivaratri: all-night puja from sunset\, five worsh
+ ip periods with prasad
+LOCATION:Neem Karoli Baba Ashram
+DESCRIPTION:Hindu date confirmed\; ashram posts details ~January. Festiva
+ l-prep seva the week before.
+CATEGORIES:Temple
+END:VEVENT
+BEGIN:VEVENT
+UID:0b6b0f59-abbb-5eda-b738-099a60c84728@taos
+DTSTAMP:20260928T163415Z
+DTSTART;VALUE=DATE:20270308
+DTEND;VALUE=DATE:20270327
+SUMMARY:[Culture] Earthship Field Study Session (info\; visitor center da
+ ily 9-4)
+LOCATION:Earthship Biotecture\, Tres Piedras
+DESCRIPTION:https://earthship.com/schedule/
+URL:https://earthship.com/schedule/
+CATEGORIES:Culture
+END:VEVENT
+BEGIN:VEVENT
+UID:773760a5-a545-5e37-99d2-d9240b039143@taos
+DTSTAMP:20260928T163415Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270319
+SUMMARY:[Snow] Weekday pass blackout: Mar 13-18
+CATEGORIES:Snow
+END:VEVENT
+BEGIN:VEVENT
+UID:05d64048-dd70-5287-8a05-666f48561984@taos
+DTSTAMP:20260928T163415Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270315
+SUMMARY:[Culture] Taos Chamber Music Group: Cello Extravaganza
+LOCATION:Harwood Museum
+CATEGORIES:Culture
+END:VEVENT
+BEGIN:VEVENT
+UID:fa738271-23bd-55dc-9751-6954899470cf@taos
+DTSTAMP:20260928T163415Z
+DTSTART;TZID=America/Denver:20270314T130000
+DTEND;TZID=America/Denver:20270314T150000
+SUMMARY:[Mushrooms] NM Mycological Society monthly meeting resumes (2nd S
+ unday\; ABQ or Santa Fe\; verify) (date TBC)
+DESCRIPTION:https://nmms.wildapricot.org/
+URL:https://nmms.wildapricot.org/
+CATEGORIES:Mushrooms
+END:VEVENT
+BEGIN:VEVENT
+UID:cd080ad3-2856-5924-a1de-84059ab48efe@taos
+DTSTAMP:20260928T163415Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:[Snow] TSV Full Moon Uphill Tour\; NM Legislature session ends (d
+ ate TBC)
+LOCATION:Taos Ski Valley
+CATEGORIES:Snow
+END:VEVENT
+BEGIN:VEVENT
+UID:8920dffd-bab1-58b1-bab3-07d96ea74de8@taos
+DTSTAMP:20260928T163415Z
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270323
+SUMMARY:[Temple] Holi (not an ashram festival)
+CATEGORIES:Temple
+END:VEVENT
+BEGIN:VEVENT
+UID:7ef84e63-77fd-587c-98e5-b359aaca61a6@taos
+DTSTAMP:20260928T163415Z
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270323
+SUMMARY:[Service] Ask the mayordomo: Acequia Madre del Rio Lucero y del A
+ rroyo Seco spring limpia date (date TBC)
+DESCRIPTION:https://amrlas.wordpress.com
+URL:https://amrlas.wordpress.com
+CATEGORIES:Service
+END:VEVENT
+BEGIN:VEVENT
+UID:0a09531e-197b-548c-a413-3249235858af@taos
+DTSTAMP:20260928T163415Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:[Culture] Harwood reopens: UNM-Taos student show opens Mar 27
+LOCATION:Harwood Museum
+CATEGORIES:Culture
+END:VEVENT
+BEGIN:VEVENT
+UID:46184b64-3d32-5573-bde2-a9a2653b5fe7@taos
+DTSTAMP:20260928T163415Z
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+SUMMARY:[Snow] Sipapu projected closing
+LOCATION:Sipapu
+CATEGORIES:Snow
+END:VEVENT
+BEGIN:VEVENT
+UID:20741330-5279-5911-8966-f0e86c6c2d66@taos
+DTSTAMP:20260928T163415Z
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270402
+SUMMARY:[Mushrooms] Taos Farmers Market non-farmer vendor application due
+DESCRIPTION:http://taosfarmersmarket.org/vendors/
+URL:http://taosfarmersmarket.org/vendors/
+CATEGORIES:Mushrooms
+END:VEVENT
+BEGIN:VEVENT
+UID:506fc3d2-c091-517b-a69f-4417474bc1e3@taos
+DTSTAMP:20260928T163415Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:[Culture] Harwood: Ron Cooper Light Works opens (through Sep 26)
+LOCATION:Harwood Museum
+CATEGORIES:Culture
+END:VEVENT
+BEGIN:VEVENT
+UID:f9ef6632-1e00-55de-a004-42bd19481b1c@taos
+DTSTAMP:20260928T163415Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:[Snow] TSV projected closing day (first Sunday of April\; closing
+  party) (date TBC)
+LOCATION:Taos Ski Valley
+CATEGORIES:Snow
+END:VEVENT
+BEGIN:VEVENT
+UID:71ce195e-7dd2-5064-ad16-f7bb1dadfd5a@taos
+DTSTAMP:20260928T163415Z
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+SUMMARY:[Temple] Apply for Lama Foundation summer 2027 steward/resident (
+ date TBC)
+DESCRIPTION:https://www.lamafoundation.org/
+URL:https://www.lamafoundation.org/
+CATEGORIES:Temple
+END:VEVENT
+BEGIN:VEVENT
+UID:6f61a787-8cdf-562a-8e0f-2f7ff80c84cc@taos
+DTSTAMP:20260928T163415Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270412
+SUMMARY:[Culture] Taos Chamber Music Group: Taos School of Music Alumni
+LOCATION:Harwood Museum
+CATEGORIES:Culture
+END:VEVENT
+BEGIN:VEVENT
+UID:8782a6e6-fe0f-5ca9-927a-6551aef0d8d4@taos
+DTSTAMP:20260928T163415Z
+DTSTART;TZID=America/Denver:20270411T130000
+DTEND;TZID=America/Denver:20270411T150000
+SUMMARY:[Mushrooms] NMMS monthly meeting (2nd Sunday\; verify) (date TBC)
+CATEGORIES:Mushrooms
+END:VEVENT
+BEGIN:VEVENT
+UID:4bba31ac-3bff-51cd-9b81-4a29eea3e4b9@taos
+DTSTAMP:20260928T163415Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:[Temple] Ram Navami (not an ashram festival)
+CATEGORIES:Temple
+END:VEVENT
+BEGIN:VEVENT
+UID:894a61b3-efe7-5368-889e-0c2409bd27a6@taos
+DTSTAMP:20260928T163415Z
+DTSTART;VALUE=DATE:20270416
+DTEND;VALUE=DATE:20270419
+SUMMARY:[Temple] HANUMAN JAYANTI: 24-hr Chalisa chanting from ~1 PM Fri\,
+  akhand Ramayana\, birthday cake Sat\, prasad dinners. Heaviest seva of 
+ the year. (date TBC)
+LOCATION:Neem Karoli Baba Ashram
+DESCRIPTION:Ashram rule: weekend preceding the first full moon of spring 
+ (Apr 20). Confirm in January. Clear the calendar\; seva all weekend.
+CATEGORIES:Temple
+END:VEVENT
+BEGIN:VEVENT
+UID:69355364-f0cd-5bb6-9cde-15d2895c5b91@taos
+DTSTAMP:20260928T163415Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:[Admin] My 64th birthday
+DESCRIPTION:Double Taurus. Tres Piedras top-rope day with Griffin?
+CATEGORIES:Admin
+END:VEVENT
+BEGIN:VEVENT
+UID:de494ae2-0940-5335-8e7c-6888097cd667@taos
+DTSTAMP:20260928T163415Z
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+SUMMARY:[Outdoors] Rio Grande Racecourse half-day raft (season opener\; c
+ all outfitters in March) (date TBC)
+CATEGORIES:Outdoors
+END:VEVENT
+BEGIN:VEVENT
+UID:45d469dd-ae0d-5b8d-9c85-6e0452b551b5@taos
+DTSTAMP:20260928T163415Z
+DTSTART;VALUE=DATE:20270429
+DTEND;VALUE=DATE:20270503
+SUMMARY:[Culture] Taos Film Festival at TCA
+LOCATION:Taos Center for the Arts
+DESCRIPTION:https://taosff.org/
+URL:https://taosff.org/
+CATEGORIES:Culture
+END:VEVENT
+BEGIN:VEVENT
+UID:736c8b98-bb9e-5332-9055-ebe8191af06b@taos
+DTSTAMP:20260928T163415Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:[Admin] Calendar ends. Review the year: what worked\, what to ren
+ ew\, lease decision by August.
+CATEGORIES:Admin
+END:VEVENT
+BEGIN:VEVENT
+UID:33db4a40-e29e-56ca-8c8f-d7cdabb33cba@taos
+DTSTAMP:20260928T163415Z
+DTSTART;VALUE=DATE:20270503
+DTEND;VALUE=DATE:20270504
+SUMMARY:[Culture] Taos Pueblo: Santa Cruz feast day corn dance and foot r
+ aces
+LOCATION:Taos Pueblo
+CATEGORIES:Culture
+END:VEVENT
+BEGIN:VEVENT
+UID:4e9389d7-0b6a-54fe-9c1c-d1920b35c7d6@taos
+DTSTAMP:20260928T163415Z
+DTSTART;TZID=America/Denver:20261122T150000
+DTEND;TZID=America/Denver:20261122T173000
+SUMMARY:[Temple] Amma Taos/Dixon Satsang (Sunday afternoons in homes\; ca
+ ll Carolyn Morgan 575-770-5765 for dates) (date TBC)
+DESCRIPTION:I carry Amma's mantra. Go once in November\, then decide the 
+ rhythm.
+CATEGORIES:Temple
+END:VEVENT
+BEGIN:VEVENT
+UID:b3c845f4-3d4f-5e34-81a3-a242b4c188be@taos
+DTSTAMP:20260928T163415Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:[Body] Native Roots School: ask about Sunday series / winter appr
+ enticeship
+LOCATION:241 Ledoux St\, Taos
+DESCRIPTION:https://nativerootsschool.com/
+URL:https://nativerootsschool.com/
+CATEGORIES:Body
+END:VEVENT
+BEGIN:VEVENT
+UID:e64b22f4-8afb-5ccf-8be3-521d8ad5c1b8@taos
+DTSTAMP:20260928T163415Z
+DTSTART;TZID=America/Denver:20270108T130000
+DTEND;TZID=America/Denver:20270108T140000
+SUMMARY:[Studio] Visit Carol Dee's Art Joint with mobile photos
+LOCATION:1405 Paseo del Pueblo Norte\, El Prado
+DESCRIPTION:https://www.caroldeesartjoint.com/
+URL:https://www.caroldeesartjoint.com/
+CATEGORIES:Studio
+END:VEVENT
+BEGIN:VEVENT
+UID:4af59c5d-b5ed-584b-9ecb-c17e23239983@taos
+DTSTAMP:20260928T163415Z
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270216
+SUMMARY:[Studio] TCA Encore Gallery 2027 submission (check deadline) (dat
+ e TBC)
+DESCRIPTION:https://tcataos.org/
+URL:https://tcataos.org/
+CATEGORIES:Studio
+END:VEVENT
+BEGIN:VEVENT
+UID:bc8d7b7b-9870-5f82-beb9-a3903cb9a46e@taos
+DTSTAMP:20260928T163415Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:[Studio] Paseo Project 2027 open call: check paseoproject.org (da
+ te TBC)
+DESCRIPTION:https://paseoproject.org/
+URL:https://paseoproject.org/
+CATEGORIES:Studio
+END:VEVENT
+BEGIN:VEVENT
+UID:1a332754-822e-5c51-a682-3052e09cc5b1@taos
+DTSTAMP:20260928T163415Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:[Dating] Taos Pride: DM @taospride about winter planning meetings
+  and the queer elders council
+DESCRIPTION:https://taospride.org
+URL:https://taospride.org
+CATEGORIES:Dating
+END:VEVENT
+BEGIN:VEVENT
+UID:e46fdf7c-dafd-59be-ac8e-28dd4367d769@taos
+DTSTAMP:20260928T163415Z
+DTSTART;TZID=America/Denver:20261203T100000
+DTEND;TZID=America/Denver:20261203T104500
+SUMMARY:[Service] Taos Community Foundation: intro meeting (LGBTQ+ Equity
+  Fund) (date TBC)
+LOCATION:115 La Posta Rd Ste A\, Taos
+DESCRIPTION:575-737-9300\, info@taoscf.org
+CATEGORIES:Service
+END:VEVENT
+BEGIN:VEVENT
+UID:1275a111-b546-5e76-934b-3828afd8456c@taos
+DTSTAMP:20260928T163415Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20270103
+SUMMARY:[Snow] Weekday pass blackout: Dec 26 to Jan 2 (ride Sipapu or sno
+ wshoe the 150 canyons)
+CATEGORIES:Snow
+END:VEVENT
+END:VCALENDAR
