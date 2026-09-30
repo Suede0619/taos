@@ -4,7 +4,7 @@ Read in this order:
 
 1. `01-Analysis-and-Executive-Summary.md` — what we know, the timeline, the deed problem, the law, the decision.
 2. `02-Todo.md` — documents still to get, what to say to Susan and John, monthly checks.
-3. `03-Room-Rental-Agreement-527-Hwy-150.md` / `.pdf` — the October 2026 agreement, ready to sign (two blanks: agreement date, early move-in date).
+3. `03-Room-Rental-Agreement-527-Hwy-150.md` / `.pdf` — the October 2026 agreement, ready to sign (one blank: agreement date).
 
 Supporting:
 

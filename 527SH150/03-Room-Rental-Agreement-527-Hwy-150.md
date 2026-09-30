@@ -2,26 +2,21 @@
 
 *Shared housing at 527 State Highway 150, Arroyo Seco, New Mexico 87514*
 
-This Room Rental Agreement ("Agreement") is made on October ___, 2026, between **Susan Nelson** ("Susan") and **David S. Paul** ("David"). Susan and David will share Susan's house. They are making this Agreement in a spirit of good faith and neighborliness, and they have written it in plain language so that both of them can understand every part of it.
+This Room Rental Agreement ("Agreement") is made on October ___, 2026, between **Susan Nelson** ("Susan") and **David S. Paul** ("David"). Susan and David will share Susan's house.
 
 This Agreement is governed by the New Mexico Uniform Owner-Resident Relations Act, NMSA 1978, Sections 47-8-1 through 47-8-52 (the "Act"). For purposes of the Act, Susan is the "owner" (the person in possession who is renting out the room) and David is the "resident." Where this Agreement is silent, the Act controls. Each of them will keep a signed copy.
 
 ## 1. The People and the House
 
-**Susan Nelson** has lived at 527 State Highway 150, Arroyo Seco, NM 87514 (the "House") since she and Stan Nelson built it in 2003. She holds the mortgage on the House in her own name and pays it, and the utilities are in her name. She lives at the House and will continue to live there. Susan is the person authorized to manage the House and to receive notices under Section 47-8-19 of the Act. Susan's contact: 527 State Highway 150, Arroyo Seco, NM 87514 (mail: PO Box 796, Arroyo Seco, NM 87514); email suzienelson007@gmail.com; phone 575-770-8039.
+**Susan Nelson** lives at 527 State Highway 150, Arroyo Seco, NM 87514 (the "House") and is the person authorized to manage the House and receive notices under Section 47-8-19 of the Act. Susan's contact: 527 State Highway 150, Arroyo Seco, NM 87514; email suzienelson007@gmail.com; phone 575-770-8039.
 
 **David S. Paul** is moving to Arroyo Seco from Colorado. David's contact: email stupaul22@gmail.com; phone 720-275-1350. David may receive mail at the House.
 
 ## 2. About the Title to the House
 
-Susan has told David, and David understands, that a quitclaim deed dated June 18, 2025 naming Oliver Dyer-Bennet was recorded with the Taos County Clerk in 2026 (Reception No. 492376), and that Mr. Dyer-Bennet's estate has been in contact with Susan about the House. Susan believes she remains the owner of the House and is getting advice about the matter. David is renting the room with full knowledge of this, and nothing in this Section is a criticism of anyone; it is simply the two of them being open with each other.
+Susan has told David that a quitclaim deed dated June 18, 2025 naming Oliver Dyer-Bennet was recorded with the Taos County Clerk in 2026 (Reception No. 492376), and that Mr. Dyer-Bennet's estate has contacted Susan about the House. David is entering this Agreement with that knowledge.
 
-So that David is never surprised, Susan agrees to:
-
-- tell David, within **two days**, if anyone contacts her in writing about the ownership or possession of the House, or if any document is filed in court or recorded with the County Clerk about the House; and
-- tell David before she signs any new document about the ownership of the House.
-
-Neither of them expects it, but **if David has to move out because someone other than Susan claims the right to possess the House** (for example, by a court order or a formal written notice to vacate), then: David may end this Agreement on **15 days'** written notice; Susan will refund any rent already paid for days David could not stay; Susan will return the security deposit within **5 days** of move-out; and Susan will contribute **$800.00** toward David's moving costs. This is the whole of Susan's responsibility to David in that situation, and David will not seek anything more from her.
+Susan will tell David within **two days** if she receives any written claim, court filing, recorded document, or notice affecting ownership or possession of the House. If David has to move out because someone other than Susan claims the right to possess the House, David may end this Agreement on **15 days'** written notice. Susan will refund rent paid for any days David could not stay and will return the security deposit within **5 days** of move-out, less any lawful deductions.
 
 ## 3. What David Is Renting
 
@@ -39,7 +34,7 @@ Neither of them expects it, but **if David has to move out because someone other
 
 ## 4. Term and Move-In
 
-**Early move-in:** David may bring his belongings and begin staying at the House any time on or after October ___, 2026, at no charge. Rent begins November 1, 2026.
+**Early move-in:** David may bring his belongings and begin staying at the House any time on or after **October 5, 2026**, at no charge. Rent begins November 1, 2026.
 
 **Fixed term:** six months, from **November 1, 2026** through **April 30, 2027**.
 
@@ -152,4 +147,3 @@ Completed together by Susan and David at move-in. Attach photographs (note the n
 |---|---|---|---|
 | Susan | Susan Nelson | ______________________ | ________ |
 | David | David S. Paul | ______________________ | ________ |
-
