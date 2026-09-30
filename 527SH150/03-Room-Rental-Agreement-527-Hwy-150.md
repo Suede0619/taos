@@ -14,7 +14,7 @@ This Agreement is governed by the New Mexico Uniform Owner-Resident Relations Ac
 
 ## 2. About the Title to the House
 
-Susan has told David that a quitclaim deed dated June 18, 2025 naming Oliver Dyer-Bennet was recorded with the Taos County Clerk in 2026 (Reception No. 492376), and that Mr. Dyer-Bennet's estate has contacted Susan about the House. David is entering this Agreement with that knowledge.
+A quitclaim deed dated June 18, 2025 naming Oliver Dyer-Bennet was recorded with the Taos County Clerk in 2026 (Reception No. 492376), and Mr. Dyer-Bennet's estate has contacted Susan about the House. David is entering this Agreement with that knowledge.
 
 Susan will tell David within **two days** if she receives any written claim, court filing, recorded document, or notice affecting ownership or possession of the House. If David has to move out because someone other than Susan claims the right to possess the House, David may end this Agreement on **15 days'** written notice. Susan will refund rent paid for any days David could not stay and will return the security deposit within **5 days** of move-out, less any lawful deductions.
 

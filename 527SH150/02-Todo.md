@@ -23,11 +23,12 @@
 ## B. Conversations
 
 ### Susan (done: she agreed to the new terms; still to cover)
+- [ ] Email Susan the revised lease PDF so she can read it before next week.
 - [ ] Ask, gently, about June 18, 2025: "Suzie, the county shows you signed a quitclaim deed to Oliver last June, six months after he passed. Can you tell me what that was about? Did you owe Oliver money, or was it something you'd promised him?" Listen for whether she knows what a quitclaim is and whether anything was written down.
 - [ ] Tell her plainly: the deed was signed after Oliver died, so it very likely didn't transfer anything, and she should **not sign anything else for John** until she has talked to a lawyer.
 - [ ] Refer her to **New Mexico Legal Aid, 1-833-545-4357** (Mon-Thu 9:30-4:00; Taos office at 204 Montoya St, phone intake first). She is 69 and almost certainly qualifies. What she should say: "I own my home in Arroyo Seco and pay the mortgage. I signed a quitclaim deed in June 2025 to a friend who had already died, and his brother, the executor, has recorded it and wants me to call him. I need advice before I sign anything." Offer to sit with her while she calls.
 - [ ] Ask whether she has told Cenlar anything, and whether her homeowner's insurance is current (no escrow on the loan, so she pays both herself).
-- [ ] Go over the new agreement together, out loud, section by section. Fill in the two blanks (agreement date, early move-in date). Sign two copies.
+- [ ] Before moving belongings in or staying overnight next week, go over the new agreement together, out loud, section by section. Fill in the agreement date. Sign two copies.
 - [ ] Do Exhibit A together at move-in with photos.
 - [ ] The mold check and the alcohol-in-the-house conversation from `Lease-Notes.md`.
 
